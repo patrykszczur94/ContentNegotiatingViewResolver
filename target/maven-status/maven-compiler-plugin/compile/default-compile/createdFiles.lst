@@ -1,0 +1,6 @@
+com/ratcoding/views/domain/Person.class
+com/ratcoding/views/config/AppConfig.class
+com/ratcoding/views/controller/AppController.class
+com/ratcoding/views/views/Jaxb2MarshallingXmlViewResolver.class
+com/ratcoding/views/config/AppInitializer.class
+com/ratcoding/views/views/JsonViewResolver.class
